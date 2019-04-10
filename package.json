@@ -7,7 +7,7 @@
     "now-build": "next build",
     "start": "next start",
     "type-check": "tsc",
-    "deploy:production": "now --target production",
+    "deploy:production": "now --target production --token=$NOW_TOKEN",
     "tsc": "tsc"
   },
   "dependencies": {
