@@ -58,3 +58,4 @@ ecosystem.config.js
 source/
 build
 .bash-git-rc
+.next
