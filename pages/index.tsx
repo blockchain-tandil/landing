@@ -4,7 +4,6 @@ import Layout from '../layouts/UnderConstruction' // Under Construction Page Lay
 const IndexPage: React.FunctionComponent = () => {
   return (
     <Layout title="Tandil.dev">
-      // Styling for the text on the landing page! 
       <style jsx>{`
         #wrapper {
           text-align: center;
